@@ -2,4 +2,4 @@
 
 Live at: coming soon
 
-### Build with React
+### Built with React
